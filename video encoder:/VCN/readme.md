@@ -1,6 +1,11 @@
 sch: https://www.google.com/search?q=AMD+VCN+encoder+ubuntu https://www.google.com/search?q=AMD+VCN+encoder+test+ubuntu
 
 # Guide:
+## relation (for): HandBrake
+https://handbrake.fr/docs/en/latest/technical/video-vcn.html
+
+
+# Problem:
 https://github.com/HandBrake/HandBrake/discussions/5026
 
 Solution:
