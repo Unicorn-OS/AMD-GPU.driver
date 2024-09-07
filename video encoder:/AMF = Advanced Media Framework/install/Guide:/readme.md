@@ -8,5 +8,7 @@ video:
 text:
 - https://www.reddit.com/r/linux_gaming/comments/13slpfy/radeon_hardware_encoder_for_obs/
 
+[from: search](https://www.google.com/search?q=obs+studio+ubuntu+amd+hardware+encoding)
+
 ## in: Distrobox
 pull request: https://github.com/obsproject/obs-studio/pull/7206
