@@ -1,4 +1,4 @@
-# Radeon™ Software for Linux
+# Radeon Software for Linux
 issue: https://github.com/GPUOpen-LibrariesAndSDKs/AMF/issues/378#issuecomment-2286742629
 
 solution:
