@@ -27,7 +27,7 @@ notes: https://github.com/Unicorn-OS/AMD-GPU.driver/blob/main/video%20encoder:/V
 
 solution: [[Bug]: Unable to locate package amf-amdgpu-pro #378](https://github.com/GPUOpen-LibrariesAndSDKs/AMF/issues/378)
 
-### works:
+## works:
 Combine these two to make a working install string:
 ```
 sudo amdgpu-install --usecase=workstation --opencl=legacy --vulkan=pro --accept-eula
