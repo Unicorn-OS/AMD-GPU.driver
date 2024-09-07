@@ -1,7 +1,7 @@
 # Radeon Software for Linux
 issue: https://github.com/GPUOpen-LibrariesAndSDKs/AMF/issues/378#issuecomment-2286742629
 
-solution:
+info:
 >Please don't use ROCm releases to install AMF.
 >AMF is a part of the radeon software for linux releases, which are based on ROCm releases. It's best to see the Radeon Software for Linux as a superset of the ROCm stack.
 >
