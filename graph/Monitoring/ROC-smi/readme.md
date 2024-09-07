@@ -1,4 +1,4 @@
-# ROC-smi
+# ROC-smi || ROCm System Management Interface
 sch: https://www.google.com/search?q=rocm-smi
 
 ## Home:
