@@ -1,3 +1,4 @@
+# OpenCL (Optional Component) || user permission
 Doc: https://amdgpu-install.readthedocs.io/en/latest/install-installing.html#opencl-optional-component
 
 >To use the ROCr implementation of OpenCL, the running user might need additional permissions depending on OS policy. If clinfo or any openCL application does not work, check ownership and permissions of the render nodes:
