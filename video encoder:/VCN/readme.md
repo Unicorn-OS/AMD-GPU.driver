@@ -11,7 +11,7 @@ https://github.com/HandBrake/HandBrake/discussions/5026
 ## Solution:
 ### works:
 os: "Ubuntu 22.04.4 LTS"
-driver: "amdgpu-install_6.1.60103-1_all.deb"
+driver: ""
 
 description: Combine these two to make a working install string:
 ```
