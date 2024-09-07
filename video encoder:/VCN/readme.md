@@ -10,7 +10,10 @@ https://github.com/HandBrake/HandBrake/discussions/5026
 
 ## Solution:
 ### works:
-Combine these two to make a working install string:
+os: "Ubuntu 22.04.4 LTS"
+driver: "amdgpu-install_6.1.60103-1_all.deb"
+
+description: Combine these two to make a working install string:
 ```
 sudo amdgpu-install --usecase=workstation --opencl=legacy --vulkan=pro --accept-eula
 ```
