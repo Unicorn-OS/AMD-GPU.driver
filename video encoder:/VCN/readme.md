@@ -18,7 +18,7 @@ description: Combine these two to make a working install string:
 sudo amdgpu-install --usecase=workstation --opencl=legacy --vulkan=pro --accept-eula
 ```
 
-### notes:
+### from:
 1. install opencl=legacy
 >i have with new routine installed the "graphics" usecase or "open" it is;
 >but it functions still;
